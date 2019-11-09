@@ -42,7 +42,7 @@ im='dog.jpg'
 weights='yolov3.weights'
 objclasses='yolov3.txt'
 config='yolov3.cfg'
-cap=cv2.VideoCapture(0)
+cap=cv2.VideoCapture('test.mp4')
 
 
 
